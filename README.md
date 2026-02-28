@@ -153,7 +153,5 @@ Introduce model evaluation metrics (R², MAE, RMSE).
 
 Implement real-time feedback visualization.
 
-📬 Contact
-For any questions or feedback, feel free to reach out at:
-📧 khushbupoul77@gmail.com
+
 
